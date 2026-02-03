@@ -1,7 +1,5 @@
 # Hi, I’m Hiba Naeem 👋
 
-I’m an Electrical Engineer with a strong interest in embedded systems, FPGA-based designs, and applied technology. Alongside engineering, I actively pursue creative work and enjoy combining technical problem-solving with clear documentation and presentation.
-
 ---
 
 ## 👩‍💻 What I Do
