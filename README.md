@@ -6,7 +6,8 @@
 - Digital Twin Engineering 
 - FPGA and embedded systems projects  
 - Automation and robotics
-- Exploring data visualization and cloud-based tools  
+- Exploring data visualization and cloud-based tools
+- Matlab/Simulink Simulations 
 
 ---
 
